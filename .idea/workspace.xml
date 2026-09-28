@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55e8cee7-339d-4caa-be64-85992d89d743" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oms_usermanagement/src/main/java/com/fnb/oms_usermanagement/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oms_usermanagement/src/main/java/com/fnb/oms_usermanagement/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oms_usermanagement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oms_usermanagement/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oms_usermanagement/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/oms_usermanagement/src/main/resources/application.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;letlotlo-t&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/letlotlo-t/oms_usermanagement.git&quot;,
+    &quot;accountId&quot;: &quot;c9b0219d-db27-4751-8bd3-cf46667809b1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3JRdhBOkcxKYnJMoZHmAr5BqRoS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.OmsUsermanagementApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "letlotlo",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Geeks2_PC19/Downloads/oms_usermanagement",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e8cee7-339d-4caa-be64-85992d89d743" name="Changes" comment="" />
+      <created>1789627934072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789627934072</updated>
+    </task>
+    <servers />
+  </component>
+</project>

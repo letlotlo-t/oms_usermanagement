@@ -17,5 +17,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="oms_usermanagement" options="-parameters" />
     </option>
+    <bytecodeTargetLevel>
+      <module name="oms_usermanagement" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
