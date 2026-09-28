@@ -19,7 +19,8 @@ import java.time.LocalDateTime;
 public class User {
 
 
-
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long customerId;
 
     private String firstName;
@@ -28,6 +29,7 @@ public class User {
 
     private String email;
 
+    @Enumerated(EnumType.STRING)
     private Role role;
 
     private LocalDateTime createdAt;
@@ -36,14 +38,17 @@ public class User {
 
     @PrePersist
     protected void onCreate(){
-        this.createdAt = LocalDateTime.now();
-        this.updatedAt = LocalDateTime.now();
+        createdAt = LocalDateTime.now();
+        updatedAt = LocalDateTime.now();
+
+        if(this.role == null){
+            this.role = Role.ADMIN;
+        }
     }
 
     @PreUpdate
     protected void onUpdate(){
         updatedAt = LocalDateTime.now();
     }
-
 
 }

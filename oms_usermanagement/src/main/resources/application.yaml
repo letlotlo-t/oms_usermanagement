@@ -18,3 +18,7 @@ spring:
       hibernate:
         format_sql: true
       open-in-view: false
+
+jwt:
+  secret: "fnb-b4-bootcamp-shared-jwt-signing-secret-change-me-32bytes-min"
+  expiration-ms: 3600000 #an hour

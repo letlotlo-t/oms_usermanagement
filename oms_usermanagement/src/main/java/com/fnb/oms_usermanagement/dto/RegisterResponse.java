@@ -5,9 +5,10 @@ import lombok.Data;
 
 @Data
 @Builder
-public class LoginResponse {
-    private String token;
+public class RegisterResponse {
     private Long customerId;
+    private String firstName;
+    private String surname;
     private String email;
     private String role;
 }
